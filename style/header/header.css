@@ -1,0 +1,10 @@
+@import url('./__open-pop-up-button/header__open-pop-up-button.css');
+
+.header {
+    width: 97.5%;
+    margin: 0 auto;
+    height: 100px;
+    background: #7FAFF7;
+    display: flex;
+    position: relative;
+}

@@ -1,0 +1,9 @@
+.block-1__second-container {
+    position: relative;
+    width: 50.42%;
+    height: 198px;
+    background: #8AD191;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}

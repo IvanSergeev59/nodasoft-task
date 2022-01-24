@@ -1,0 +1,21 @@
+@import url('./header/header.css');
+@import url('./block-1/block-1.css');
+@import url('./block-2/block-2.css');
+@import url('./footer/footer.css');
+@import url('./pop-up/pop-up.css');
+
+body {
+    margin: 0px;
+    overflow: auto;
+    max-width: 1900px;
+}
+.root {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    width: 62.5%;
+    max-width: 1200px;
+    margin: 0 auto;
+    background: #C0DBD9;
+    z-index: 1;
+}

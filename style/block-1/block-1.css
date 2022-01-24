@@ -1,0 +1,26 @@
+@import url('./__first-container/block-1__first-container.css');
+@import url('./__second-container/block-1__second-container.css');
+@import url('./__third-container/block-1__third-container.css');
+@import url('./__fourth-container/block-1__fourth-container.css');
+@import url('./__fifth-container/block-1__fifth-container.css');
+
+.block-1 {
+    display: flex;
+    position: relative;
+    max-width: 1170px;
+    background: #B3F95A;
+    height: 411px;
+    margin: 0 auto;
+    margin-top: 15px;
+    width: 97.5%;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    font-family: Roboto;
+    font-size: 53px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 62px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: white;
+}

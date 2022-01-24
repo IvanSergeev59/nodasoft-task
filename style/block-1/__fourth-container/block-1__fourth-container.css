@@ -1,0 +1,10 @@
+.block-1__fourth-container {
+    position: relative;
+    width: 85.04%;
+    height: 198px;
+    background: #8AD191;
+    margin-top: 15px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}

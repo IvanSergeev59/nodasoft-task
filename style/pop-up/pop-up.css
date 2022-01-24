@@ -1,0 +1,26 @@
+@import url('./__close/pop-up__close.css');
+
+.pop-up {
+    display: none;
+    position: absolute;
+    left: 50%;
+    width: 400px;
+    height: 400px;
+    background: #ffff;  
+    top: 50%;
+    transform: translate(-50%, -50%);
+    justify-content: center;
+}
+
+p {
+    font-family: Roboto;
+    font-size: 53px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 62px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin: auto;
+}
+
+#pop-up:target {display: flex}

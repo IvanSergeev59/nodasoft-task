@@ -1,0 +1,10 @@
+.block-1__fifth-container {
+    position: relative;
+    width: 13.67%;
+    height: 198px;
+    background: #8AD191;
+    margin-top: 15px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}

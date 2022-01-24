@@ -1,0 +1,9 @@
+.block-1__third-container {
+    position: relative;
+    width: 13.67%;
+    height: 198px;
+    background: #8AD191;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}

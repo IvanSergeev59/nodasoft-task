@@ -1,0 +1,13 @@
+.block-2__container {
+    background: #0D89B0;
+    width: 21.79%;
+    margin: 2.564% 1.282% 2.564% 1.282%;
+    position: relative;
+    max-height: 199px;
+}
+
+.block-2__container:after{
+    content: "";
+    padding-top: 100%;
+    display: block;
+  }   

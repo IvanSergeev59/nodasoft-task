@@ -1,0 +1,11 @@
+@import url('./__container/block-2__container.css');
+
+.block-2 {
+    display: flex;
+    position: relative;
+    width: 97.5%;
+    margin: 0 auto;
+    background: #88B5BF;
+    margin-top: 15px;
+    justify-content: center;
+}
