@@ -1,8 +1,8 @@
-@import url('__first-container/block-1__first-container.css');
-@import url('__second-container/block-1__second-container.css');
-@import url('__third-container/block-1__third-container.css');
-@import url('__fourth-container/block-1__fourth-container.css');
-@import url('__fifth-container/block-1__fifth-container.css');
+@import url('first-container/block-1__first-container.css');
+@import url('second-container/block-1__second-container.css');
+@import url('third-container/block-1__third-container.css');
+@import url('fourth-container/block-1__fourth-container.css');
+@import url('fifth-container/block-1__fifth-container.css');
 
 .block-1 {
     display: flex;
