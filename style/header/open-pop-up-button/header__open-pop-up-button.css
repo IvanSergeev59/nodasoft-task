@@ -1,4 +1,4 @@
-@import url('./_p/header__open-pop-up-button_p.css');
+@import url('p/header__open-pop-up-button_p.css');
 .header__open-pop-up-button {
     display: flex;
     position: absolute;

@@ -1,4 +1,4 @@
-@import url('./__close/pop-up__close.css');
+@import url('close/pop-up__close.css');
 
 .pop-up {
     display: none;
